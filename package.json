@@ -16,7 +16,8 @@
   },
   "homepage": "https://github.com/react-agents-registry/browser#readme",
   "description": "",
-  "agentConfig": {
-
+  "pluginConfig": {
+    "type": "react-agents:1.0.0",
+    "parameters": {}
   }
 }
